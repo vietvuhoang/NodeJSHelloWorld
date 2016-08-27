@@ -1,0 +1,35 @@
+{
+    "members" : [
+        {
+            "name" : "Hoang Do Manh",
+            "birthday" : "1993-10-08",
+            "sex" : true,
+            "department" : "JPD"
+        },{
+            "name" : "Quang Dinh Van",
+            "birthday" : "1986-07-27",
+            "sex" : true,
+            "department" : "SDC"
+        },{
+            "name" : "Nhai Vu Thi",
+            "birthday" : "1993-03-08",
+            "sex" : false,
+            "department" : "JPD"
+        },{
+            "name" : "Viet Vu Hoang",
+            "birthday" : "1983-11-12",
+            "sex" : true,
+            "department" : "IPC"
+        },{
+            "name" : "Dat Tran Sy",
+            "birthday" : "1993-04-01",
+            "sex" : false,
+            "department" : "ITD"
+        },{
+            "name" : "Luan Ngo Quang",
+            "birthday" : "1993-10-19",
+            "sex" : true,
+            "department" : "JPD"
+        }
+    ]
+}
