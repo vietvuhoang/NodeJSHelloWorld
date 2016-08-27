@@ -1,0 +1,21 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "The Training Course for NodeJS",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vietvuhoang/NodeJSHelloWorld.git"
+  },
+  "author": "VietVh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vietvuhoang/NodeJSHelloWorld/issues"
+  },
+  "homepage": "https://github.com/vietvuhoang/NodeJSHelloWorld#readme"
+}
