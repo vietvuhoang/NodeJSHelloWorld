@@ -1,0 +1,8 @@
+{
+  "HelloLoopBack": {
+    "name": "HelloLoopBack",
+    "localStorage": "",
+    "file": "",
+    "connector": "memory"
+  }
+}
